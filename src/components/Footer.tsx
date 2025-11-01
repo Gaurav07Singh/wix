@@ -78,7 +78,7 @@ const Footer = () => {
 
         {/* Bottom Credit */}
         <div className="border-t border-border pt-8 text-center text-sm text-muted-foreground">
-          Made with Lovable
+          Made By Haldar AI.
         </div>
       </div>
     </footer>
